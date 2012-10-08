@@ -1,4 +1,7 @@
 Amex-Benefits-Management
 ========================
 
-This Repository Consists The Code Base for Amex Benefits Managements Changes
+
+    -Create new object called benefits, with Core and Custom field categories.
+    -Create different record types,field sets based on the various types of benefits.
+    -
